@@ -1,1 +1,1 @@
-# Front-end programming resources directory
+# Back-end programming resources directory
