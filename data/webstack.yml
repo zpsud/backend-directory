@@ -4,8 +4,8 @@
   icon: far fa-star
   links: 
     - title: GitHub
-      logo: github.png
-      url: https://github.com/
+      logo: https://unpkg.com/simple-icons@v12/icons/github.svg
+      url: https://github.com
       description: GitHub 开源社区。
 
 - taxonomy: 资讯学习
@@ -13,6 +13,18 @@
   list:
     - term: 电子文档
       links:
+        - title: learngo
+          logo: https://unpkg.com/simple-icons@v12/icons/github.svg
+          url: https://github.com/inancgumus/learngo
+          description: ❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs.
+        - title: Rust Course
+          logo: https://unpkg.com/simple-icons@v12/icons/rust.svg
+          url: https://course.rs/
+          description: Rust语言圣经涵盖从入门到精通所需的 Rust 知识，目录及内容都经过深思熟虑的设计，同时语言生动幽默，行文流畅自如，摆脱技术书籍常有的机器味和晦涩感。
+        - title: Rust by Practice
+          logo: https://unpkg.com/simple-icons@v12/icons/rust.svg
+          url: https://practice.rs/
+          description: Learning Rust By Practice, narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.
     - term: 博客论坛
       links:
     - term: 视频教程
