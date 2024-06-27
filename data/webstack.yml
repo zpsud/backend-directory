@@ -107,10 +107,52 @@
   list:
     - term: 基础模版
       links:
+        - title: Go Blueprint
+          logo: https://raw.githubusercontent.com/Melkeydev/go-blueprint/main/public/logo.png
+          url: https://github.com/Melkeydev/go-blueprint
+          description: Go-blueprint allows users to spin up a quick Go project using a popular framework
+        - title: Full Stack FastAPI Template
+          logo: https://unpkg.com/simple-icons@v12/icons/fastapi.svg
+          url: https://github.com/tiangolo/full-stack-fastapi-template
+          description: Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
+        - title: FastAPI Template
+          logo: https://unpkg.com/simple-icons@v12/icons/fastapi.svg
+          url: https://github.com/s3rius/FastAPI-template
+          description: Feature rich robust FastAPI template.
     - term: SaaS
       links:
     - term: 中后台
       links:
+        - title: Gin Vue Admin
+          logo: https://avatars.githubusercontent.com/u/63276650
+          url: https://github.com/flipped-aurora/gin-vue-admin
+          description: 🚀Vite+Vue3+Gin的开发基础平台，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。
+        - title: Go Admin
+          logo: https://avatars.githubusercontent.com/u/70429007
+          url: https://github.com/go-admin-team/go-admin
+          description: 基于Gin + Vue + Element UI & Arco Design & Ant Design 的前后端分离权限管理系统脚手架（包含了：多租户的支持，基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建，定时任务等）3分钟构建自己的中后台项目
+        - title: Simple Admin
+          logo: https://avatars.githubusercontent.com/u/21239039
+          url: https://github.com/suyuan32/simple-admin-core
+          description: Simple Admin是一个基于Go Zero开发面向小型到大型项目的分布式微服务后端管理系统脚手架，提供丰富的后台管理功能，支持k8s快速部署，助力快速开发高并发微服务集群，适合学习和商用。
+
+        - title: Axum Admin
+          logo: https://raw.githubusercontent.com/lingdu1234/axum_admin/8aaef26b17622ed463c9ea773e0d83c91725cd6d/data/logo.svg
+          url: https://github.com/lingdu1234/axum_admin
+          description: 一个由 axum/poem,sea-orm,vue3 编写的 admin 管理面板
+        - title: ABS Admin
+          logo: https://avatars.githubusercontent.com/u/59410403
+          url: https://github.com/rbatis/abs_admin
+          description: http server with RBAC permissions(axum/rbatis orm/vuejs)
+        - title: Axum Admin
+          logo: https://unpkg.com/simple-icons@v12/icons/rust.svg
+          url: https://github.com/feihua/axum-admin
+          description: 基于axum和rbatis的rbac权限管理系统axum-admin
+
+        - title: FastSoyAdmin
+          logo: https://raw.githubusercontent.com/sleep1223/fast-soy-admin/0d1b4f681e2b104ed334e860d9a1851edb9c1702/web/public/favicon.svg
+          url: https://github.com/sleep1223/fast-soy-admin
+          description: 基于 FastAPI+Vue3+Naive UI 的现代化轻量管理平台。
 
 
 - taxonomy: 在线工具
