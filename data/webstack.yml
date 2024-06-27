@@ -137,6 +137,10 @@
           logo: https://unpkg.com/simple-icons@v12/icons/vercel.svg
           url: https://vercel.com/
           description: Vercel provides the developer tools and cloud infrastructure to build, scale, and secure a faster, more personalized web.
+        - title: Google Cloud Run
+          logo: https://unpkg.com/simple-icons@v12/icons/googlecloud.svg
+          url: https://cloud.google.com/run
+          description: Cloud Run 是一个代管式计算平台，可让您直接在 Google 可伸缩的基础架构之上运行容器。
         - title: Netlify
           logo: https://unpkg.com/simple-icons@v12/icons/netlify.svg
           url: https://www.netlify.com/
