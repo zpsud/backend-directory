@@ -17,6 +17,10 @@
           logo: https://unpkg.com/simple-icons@v12/icons/github.svg
           url: https://github.com/inancgumus/learngo
           description: ❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs.
+        - title: The Golang Standard Library by Example
+          logo: https://unpkg.com/simple-icons@v12/icons/go.svg
+          url: https://github.com/polaris1119/The-Golang-Standard-Library-by-Example
+          description: Golang标准库。对于程序员而言，标准库与语言本身同样重要，它好比一个百宝箱，能为各种常见的任务提供完美的解决方案。以示例驱动的方式讲解Golang的标准库。
         - title: Rust Course
           logo: https://unpkg.com/simple-icons@v12/icons/rust.svg
           url: https://course.rs/
