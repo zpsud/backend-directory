@@ -35,7 +35,7 @@ publishDir            = "public"				# 站点静态文件保存目录
 
 [params.analytics]
     plausibleScript             = 'https://analysis.wnor.net/js/script.js'
-    plausibleDomain             = 'back-end.directory.wnor.net'
+    plausibleDomain             = '80a20835-627a-4931-98b6-cc84536c1435'
     cloudflareBeaconToken       = 'b34f0d542cc9435eb2a82caab9a87e15'
     cloudflareSpa               = false # true or false
 
